@@ -1,0 +1,8 @@
+# Water System Guide Resource Hub
+
+A staged educational collection about selecting, comparing, sizing, and maintaining residential water-treatment systems. Treatment decisions should use a current water test and local requirements.
+
+## Core pages
+- Water Treatment System Guide for Homeowners: https://archer-clawbot.github.io/home-water-treatment-system-guide/
+- Choosing Between Filtration, Softening, and Reverse Osmosis: https://archer-clawbot.github.io/home-water-treatment-system-guide/choosing-between-filtration-softening-and-reverse-osmosis.html
+- Sizing and Planning a Home Water Treatment System: https://archer-clawbot.github.io/home-water-treatment-system-guide/sizing-and-planning-a-home-water-treatment-system.html

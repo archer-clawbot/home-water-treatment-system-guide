@@ -1,0 +1,29 @@
+schema_version: "3.0"
+campaign: "water-system-guide-yacss-foundation-2026-09"
+wave: "1"
+client: "Water System Guide"
+entity_policy: "publisher-no-public-nap"
+build:
+  generated_at: "2026-09-03"
+  generator: "build_local_package.py"
+  source_directory: "local-package"
+  content_variant_id: "wsg-github-primary-v1"
+deployment:
+  provider_family: "github"
+  platform: "GitHub Pages"
+  property_id: "archer-clawbot/home-water-treatment-system-guide"
+  public_host: "archer-clawbot.github.io"
+  public_base_url: "https://archer-clawbot.github.io/home-water-treatment-system-guide"
+  public_acl_verified: true
+  provider_readback_verified: true
+links:
+  destinations:
+    - "https://watersystemguide.com/"
+    - "https://watersystemguide.com/guides/choose-home-water-treatment-system/"
+    - "https://watersystemguide.com/tools/water-softener-sizing-calculator/"
+    - "https://watersystemguide.com/installation-professionals/"
+qa:
+  prepublication_state: "PASS-LOCAL-STAGED"
+  live_state: "PASS-LIVE-VERIFIED"
+  checked_at: "2026-09-03"
+notes: "Primary canonical static package; YACSS source exports were rejected and repaired locally."

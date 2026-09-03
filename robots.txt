@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archer-clawbot.github.io/home-water-treatment-system-guide/sitemap.xml

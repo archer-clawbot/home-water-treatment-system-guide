@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "campaign": "water-system-guide-yacss-foundation-2026-09",
+  "yacss_build_id": 128083,
+  "builder_type": "diagram",
+  "state": "live",
+  "canonical_base": "https://archer-clawbot.github.io/home-water-treatment-system-guide",
+  "canonical_base_status": "live-verified",
+  "publisher": {
+    "name": "Water System Guide",
+    "url": "https://watersystemguide.com/"
+  },
+  "content_pages": [
+    "index.html",
+    "choosing-between-filtration-softening-and-reverse-osmosis.html",
+    "sizing-and-planning-a-home-water-treatment-system.html"
+  ],
+  "approved_destinations": [
+    "https://watersystemguide.com/",
+    "https://watersystemguide.com/guides/choose-home-water-treatment-system/",
+    "https://watersystemguide.com/tools/water-softener-sizing-calculator/",
+    "https://watersystemguide.com/installation-professionals/"
+  ],
+  "source_note": "YACSS generated two empty three-page ZIPs; substantive content and required technical files were repaired locally for bounded publication.",
+  "publish_requirement": "Publish GitHub Pages as the primary canonical origin; secondary deployments must retain the GitHub self-canonical.",
+  "files": {
+    "about-us.html": {
+      "bytes": 1694,
+      "sha256": "8ad5b9b0d6d2b3c18bdf1deda170be451ef05a37067cd40cec2d6bd1a0c4cf65"
+    },
+    "assets/favicon.svg": {
+      "bytes": 255,
+      "sha256": "88cc2ff6da08141d9cf3bdb6fffb14b74225122f127aa2717392519f66431ccc"
+    },
+    "assets/style.css": {
+      "bytes": 3564,
+      "sha256": "af6102efef4d77c7f9f1a60fbfaff8c28ac480f611dedb076e5f7729c2ed2a0e"
+    },
+    "choosing-between-filtration-softening-and-reverse-osmosis.html": {
+      "bytes": 10075,
+      "sha256": "0fd43eb33cb1348d53ac248efc9dbfee88e84c5ba64ad8b90d3d5861d10b69ac"
+    },
+    "index.html": {
+      "bytes": 10212,
+      "sha256": "bbfef0a16a1a5dcf2a7c67141c9e4d8d2f5c8f186699c0623d536d366b92954f"
+    },
+    "llms.txt": {
+      "bytes": 730,
+      "sha256": "c25adb5144c4d282e7083813d50e8278e58da2173184ab3ec3cec90c87379282"
+    },
+    "manifest.yaml": {
+      "bytes": 1133,
+      "sha256": "fc8aed48134b40687a02c29cf7bfd1a2f5e1070fe231b31e7070791687927b29"
+    },
+    "privacy-policy.html": {
+      "bytes": 1518,
+      "sha256": "161a6b9fe3973c5eec9f3099a6142ce26da33562b11daaf62ff0d5f667bf9178"
+    },
+    "robots.txt": {
+      "bytes": 111,
+      "sha256": "81a1f184a385a8bcbeba701ba49c005fb47cda7c7628905355a6745ffafa681d"
+    },
+    "sitemap.html": {
+      "bytes": 1566,
+      "sha256": "58da082effe066db1490e2c211bfa3d36afe4d36208a16ce69c216c77d4ae8b7"
+    },
+    "sitemap.xml": {
+      "bytes": 589,
+      "sha256": "0b2fb9a6c6e23bfbbbd7dffe349e783c7bda6e824e41e91954505961fa428d4e"
+    },
+    "sizing-and-planning-a-home-water-treatment-system.html": {
+      "bytes": 9684,
+      "sha256": "1ad44beb33175139f61224202c507d6743c620333e972e80055bcc053ffe3c98"
+    }
+  },
+  "live_verified_on": "2026-09-03",
+  "yacss_upload_ids": {
+    "github": 2426,
+    "vercel": 2427
+  }
+}
